@@ -9,3 +9,8 @@
 
 
 Feel free to use this script to deploy other things.
+
+
+**NOTES**
+
+This will only work if the deployment for the guild you input already exists, __make sure to deploy anything to your server on the Pylon dashboard before using this script__
