@@ -1,0 +1,24 @@
+{
+  "name": "pyboat-deploy",
+  "version": "1.0.0",
+  "description": "Simple script to deploy PyBoat",
+  "main": "index.js",
+  "scripts": {
+    "publish": "node index",
+    "test": "npm i && git pull && npm run publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weebsquad/pyboat-deploy.git"
+  },
+  "author": "metal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weebsquad/pyboat-deploy/issues"
+  },
+  "homepage": "https://github.com/weebsquad/pyboat-deploy#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.1"
+  }
+}
