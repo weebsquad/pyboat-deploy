@@ -25,3 +25,7 @@ console.log(`Your Pylon Token is: \n\n${localStorage.getItem('token')}\n\n`)
 This will only work if the deployment for the guild you input already exists, __make sure to deploy anything to your server on the Pylon dashboard before using this script__
 
 Feel free to use this script to deploy other things.
+
+
+## PyBoat Source Repo:
+https://github.com/weebsquad/pyboat
