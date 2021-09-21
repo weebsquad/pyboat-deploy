@@ -1,8 +1,13 @@
 # pyboat-deploy
 
 ## Simple script to deploy PyBoat to a server with Pylon in it.
+Requirements:
+**git, npm, node**
 
 1. Clone the repo
+
+`git clone https://github.com/weebsquad/pyboat-deploy.git`
+> Do not "download as zip", it will not work
 2. Copy config.js.example -> config.js
 3. Edit config.js and input the values
 4. `npm test`
